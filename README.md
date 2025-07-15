@@ -3,3 +3,5 @@ Me (Ekin) and Yigit got reconnected after highschool. I know a little bit of pro
 
 
 1st project, Tic-Tac-Toe game, by yyargic and ekinimo
+
+Thanks to @murscht for improving the gameplay
